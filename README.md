@@ -1,5 +1,8 @@
-# Data-Science-and-Machine-Learning-
-This course is about Data Science and Machine Learning. You will get to know everything about the machine learning in this repository.
+# Installation
+Anaconda to run the jupyter notebook for creating projects
 
-
-<!-- Hello it's me prayag with the machine learning course -->
+# How to install it ?
+Watch this video inorder to install 
+https://youtu.be/UTqOXwAi1pE?feature=shared
+ 
+ 
